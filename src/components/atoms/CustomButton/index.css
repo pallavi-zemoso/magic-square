@@ -1,0 +1,8 @@
+.custom-button{
+    background-color: dodgerblue;
+    color: white;
+    min-width: fit-content;
+    max-width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+}

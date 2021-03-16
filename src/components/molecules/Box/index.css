@@ -1,0 +1,10 @@
+.box{
+    display: grid;
+    justify-content: center;
+    grid-template-rows: minmax(15px, 1fr) minmax(15px, 1fr) minmax(15px, 1fr);
+}
+
+.box-row{
+    display: grid;
+    grid-template-columns: minmax(15px, 1fr) minmax(15px, 1fr) minmax(15px, 1fr);
+}
